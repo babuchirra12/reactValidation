@@ -1,0 +1,611 @@
+{
+    "Afghanistan": [{
+            "name": "Gulbadin Naib",
+            "captain": true
+        },
+        {
+            "name": "Aftab Alam",
+            "captain": false
+        },
+        {
+            "name": "Asghar Afghan",
+            "captain": false
+        },
+        {
+            "name": "Dawlat Zadran",
+            "captain": false
+        },
+        {
+            "name": "Hamid Hassan",
+            "captain": false
+        },
+        {
+            "name": "Hashmatullah Shahidi",
+            "captain": false
+        },
+        {
+            "name": "Hazratullah Zazai",
+            "captain": false
+        },
+        {
+            "name": "Mohammad Nabi",
+            "captain": false
+        },
+        {
+            "name": "Mohammad Shahzad",
+            "captain": false
+        },
+        {
+            "name": "Mujeeb Ur Rahman",
+            "captain": false
+        },
+        {
+            "name": "Najibullah Zadran",
+            "captain": false
+        },
+        {
+            "name": "Noor Ali Zadran",
+            "captain": false
+        },
+        {
+            "name": "Rahmat Shah",
+            "captain": false
+        },
+        {
+            "name": "Rashid Khan",
+            "captain": false
+        },
+        {
+            "name": "Samiullah Shinwari."
+        }
+    ],
+    "Australia": [{
+            "name": "Aaron Finch",
+            "captain": true
+        },
+        {
+            "name": "Jason Behrendorff",
+            "captain": false
+        },
+        {
+            "name": "Alex Carey",
+            "captain": false
+        },
+        {
+            "name": "Nathan Coulter-Nile",
+            "captain": false
+        },
+        {
+            "name": "Pat Cummins",
+            "captain": false
+        },
+        {
+            "name": "Usman Khawaja",
+            "captain": false
+        },
+        {
+            "name": "Nathan Lyon",
+            "captain": false
+        },
+        {
+            "name": "Shaun Marsh",
+            "captain": false
+        },
+        {
+            "name": "Glenn Maxwell",
+            "captain": false
+        },
+        {
+            "name": "Kane Richardson",
+            "captain": false
+        },
+        {
+            "name": "Steve Smith",
+            "captain": false
+        },
+        {
+            "name": "Mitchell Starc",
+            "captain": false
+        },
+        {
+            "name": "Marcus Stoinis",
+            "captain": false
+        },
+        {
+            "name": "David Warner",
+            "captain": false
+        },
+        {
+            "name": "Adam Zampa",
+            "captain": false
+        }
+    ],
+    "Bangladesh": [{
+            "name": "Mashrafe Mortaza",
+            "captain": true
+        },
+        {
+            "name": "Abu Jayed",
+            "captain": false
+        },
+        {
+            "name": "Liton Das",
+            "captain": false
+        },
+        {
+            "name": "Mahmudullah",
+            "captain": false
+        },
+        {
+            "name": "Mehidy Hasan",
+            "captain": false
+        },
+        {
+            "name": "Mohammad Mithun",
+            "captain": false
+        },
+        {
+            "name": "Mohammad Saifuddin",
+            "captain": false
+        },
+        {
+            "name": "Mosaddek Hossain",
+            "captain": false
+        },
+        {
+            "name": "Mushfiqur Rahim",
+            "captain": false
+        },
+        {
+            "name": "Mustafizur Rahman",
+            "captain": false
+        },
+        {
+            "name": "Rubel Hossain",
+            "captain": false
+        },
+        {
+            "name": "Sabbir Rahman",
+            "captain": false
+        },
+        {
+            "name": "ShakibAl Hasan",
+            "captain": false
+        },
+        {
+            "name": "Soumya Sarkar",
+            "captain": false
+        },
+        {
+            "name": "Tamim Iqbal",
+            "captain": false
+        }
+    ],
+    "England": [{
+            "name": "Eoin Morgan",
+            "captain": true
+        },
+        {
+            "name": "Moeen Ali",
+            "captain": false
+        },
+        {
+            "name": "Jofra Archer",
+            "captain": false
+        },
+        {
+            "name": "Jonny Bairstow",
+            "captain": false
+        },
+        {
+            "name": "Jos Buttler",
+            "captain": false
+        },
+        {
+            "name": "Tom Curran",
+            "captain": false
+        },
+        {
+            "name": "Liam Dawson",
+            "captain": false
+        },
+        {
+            "name": "Liam Plunkett",
+            "captain": false
+        },
+        {
+            "name": "Adil Rashid",
+            "captain": false
+        },
+        {
+            "name": "Joe Root",
+            "captain": false
+        },
+        {
+            "name": "Jason Roy",
+            "captain": false
+        },
+        {
+            "name": "Ben Stokes",
+            "captain": false
+        },
+        {
+            "name": "James Vince",
+            "captain": false
+        },
+        {
+            "name": "Chris Woakes",
+            "captain": false
+        },
+        {
+            "name": "Mark Wood",
+            "captain": false
+        }
+    ],
+    "India": [{
+            "name": "Virat Kohli",
+            "captain": true
+        },
+        {
+            "name": "Jasprit Bumrah",
+            "captain": false
+        },
+        {
+            "name": "Yuzvendra Chahal",
+            "captain": false
+        },
+        {
+            "name": "Shikhar Dhawan",
+            "captain": false
+        },
+        {
+            "name": "MS Dhoni",
+            "captain": false
+        },
+        {
+            "name": "Ravindra Jadeja",
+            "captain": false
+        },
+        {
+            "name": "Kedar Jadhav",
+            "captain": false
+        },
+        {
+            "name": "Dinesh Karthik",
+            "captain": false
+        },
+        {
+            "name": "Bhuvneshwar Kumar",
+            "captain": false
+        },
+        {
+            "name": "Hardik Pandya",
+            "captain": false
+        },
+        {
+            "name": "KL Rahul",
+            "captain": false
+        },
+        {
+            "name": "Mohammed Shami",
+            "captain": false
+        },
+        {
+            "name": "Vijay Shankar",
+            "captain": false
+        },
+        {
+            "name": "Rohit Sharma",
+            "captain": false
+        },
+        {
+            "name": "Kuldeep Yadav",
+            "captain": false
+        }
+    ],
+    "New Zealand": [{
+            "name": "Kane Williamson",
+            "captain": true
+        },
+        {
+            "name": "Tom Blundell",
+            "captain": false
+        },
+        {
+            "name": "Trent Boult",
+            "captain": false
+        },
+        {
+            "name": "Colinde Grandhomme",
+            "captain": false
+        },
+        {
+            "name": "Lockie Ferguson",
+            "captain": false
+        },
+        {
+            "name": "Martin Guptill",
+            "captain": false
+        },
+        {
+            "name": "Matt Henry",
+            "captain": false
+        },
+        {
+            "name": "Tom Latham",
+            "captain": false
+        },
+        {
+            "name": "Colin Munro",
+            "captain": false
+        },
+        {
+            "name": "Jimmy Neesham",
+            "captain": false
+        },
+        {
+            "name": "Henry Nicholls",
+            "captain": false
+        },
+        {
+            "name": "Mitchell Santner",
+            "captain": false
+        },
+        {
+            "name": "Ish Sodhi",
+            "captain": false
+        },
+        {
+            "name": "Tim Southee",
+            "captain": false
+        },
+        {
+            "name": "Ross Taylor",
+            "captain": false
+        }
+    ],
+    "Pakistan": [{
+            "name": "Sarfaraz Ahmed",
+            "captain": true
+        },
+        {
+            "name": "Asif Ali",
+            "captain": false
+        },
+        {
+            "name": "Babar Azam",
+            "captain": false
+        },
+        {
+            "name": "Fakhar Zaman",
+            "captain": false
+        },
+        {
+            "name": "Haris Sohail",
+            "captain": false
+        },
+        {
+            "name": "Hasan Ali",
+            "captain": false
+        },
+        {
+            "name": "Imad Wasim",
+            "captain": false
+        },
+        {
+            "name": "Imam-ul-Haq,",
+            "captain": false
+        },
+        {
+            "name": "Mohammad Amir",
+            "captain": false
+        },
+        {
+            "name": "Mohammad Hafeez",
+            "captain": false
+        },
+        {
+            "name": "Mohammad Hasnain",
+            "captain": false
+        },
+        {
+            "name": "Shadab Khan",
+            "captain": false
+        },
+        {
+            "name": "Shaheen Afridi",
+            "captain": false
+        },
+        {
+            "name": "Shoaib Malik",
+            "captain": false
+        },
+        {
+            "name": "Wahab Riaz",
+            "captain": false
+        }
+    ],
+    "South Africa": [{
+            "name": "Faf du Plessis",
+            "captain": true
+        },
+        {
+            "name": "Hashim Amla",
+            "captain": false
+        },
+        {
+            "name": "Quinton de Kock",
+            "captain": false
+        },
+        {
+            "name": "JP Duminy",
+            "captain": false
+        },
+        {
+            "name": "Beuran Hendricks",
+            "captain": false
+        },
+        {
+            "name": "Aiden Markram",
+            "captain": false
+        },
+        {
+            "name": "David Miller",
+            "captain": false
+        },
+        {
+            "name": "Chris Morris",
+            "captain": false
+        },
+        {
+            "name": "Lungi Ngidi",
+            "captain": false
+        },
+        {
+            "name": "Andile Phehlukwayo",
+            "captain": false
+        },
+        {
+            "name": "Dwaine Pretorius",
+            "captain": false
+        },
+        {
+            "name": "Kagiso Rabada",
+            "captain": false
+        },
+        {
+            "name": "Tabraiz Shamsi",
+            "captain": false
+        },
+        {
+            "name": "Imran Tahir",
+            "captain": false
+        },
+        {
+            "name": "Rassie van der Dussen",
+            "captain": false
+        }
+    ],
+    "Sri Lanka": [{
+            "name": "Dimuth Karunaratne",
+            "captain": true
+        },
+        {
+            "name": "Avishka Fernando",
+            "captain": false
+        },
+        {
+            "name": "Suranga Lakmal",
+            "captain": false
+        },
+        {
+            "name": "Lasith Malinga",
+            "captain": false
+        },
+        {
+            "name": "Angelo Mathews",
+            "captain": false
+        },
+        {
+            "name": "Jeevan Mendis",
+            "captain": false
+        },
+        {
+            "name": "Kusal Mendis",
+            "captain": false
+        },
+        {
+            "name": "Kusal Perera",
+            "captain": false
+        },
+        {
+            "name": "Thisara Perera",
+            "captain": false
+        },
+        {
+            "name": "Nuwan Pradeep",
+            "captain": false
+        },
+        {
+            "name": "Dhananjayade Silva",
+            "captain": false
+        },
+        {
+            "name": "Milinda Siriwardana",
+            "captain": false
+        },
+        {
+            "name": "Lahiru Thirimanne",
+            "captain": false
+        },
+        {
+            "name": "Isuru Udana",
+            "captain": false
+        },
+        {
+            "name": "Jeffrey Vandersay",
+            "captain": false
+        }
+    ],
+    "West Indies": [{
+            "name": "Jason Holder",
+            "captain": true
+        },
+        {
+            "name": "Fabian Allen",
+            "captain": false
+        },
+        {
+            "name": "Carlos Brathwaite",
+            "captain": false
+        },
+        {
+            "name": "Darren Bravo",
+            "captain": false
+        },
+        {
+            "name": "Sheldon Cottrell",
+            "captain": false
+        },
+        {
+            "name": "Shannon Gabriel",
+            "captain": false
+        },
+        {
+            "name": "Chris Gayle",
+            "captain": false
+        },
+        {
+            "name": "Shimron Hetmyer",
+            "captain": false
+        },
+        {
+            "name": "Shai Hope",
+            "captain": false
+        },
+        {
+            "name": "Evin Lewis",
+            "captain": false
+        },
+        {
+            "name": "Ashley Nurse",
+            "captain": false
+        },
+        {
+            "name": "Nicholas Pooran",
+            "captain": false
+        },
+        {
+            "name": "Kemar Roach",
+            "captain": false
+        },
+        {
+            "name": "Andre Russell",
+            "captain": false
+        },
+        {
+            "name": "Oshane Thomas",
+            "captain": false
+        }
+    ]
+}
